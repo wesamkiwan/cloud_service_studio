@@ -1,0 +1,1 @@
+# MongoDB IDE Plugin
